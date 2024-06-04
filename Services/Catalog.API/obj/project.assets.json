@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Catalog.API/Catalog.API.csproj",
+      "projectUniqueName": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Services/Catalog.API/Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Catalog.API/Catalog.API.csproj",
+      "projectPath": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Services/Catalog.API/Catalog.API.csproj",
       "packagesPath": "/Users/nevenmekkawy/.nuget/packages/",
-      "outputPath": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Catalog.API/obj/",
+      "outputPath": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Services/Catalog.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nevenmekkawy/.nuget/NuGet/NuGet.Config"

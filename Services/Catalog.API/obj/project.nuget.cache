@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RmC6IxUa4UINXAi7p7o/LeC49DfblzGABQwKDPua+NbRhl1ng0UsdaKgtfHC3SGT451WY0QVtcrx3jQ8E5hkTA==",
+  "dgSpecHash": "8EyHT3tkTUP1zJpYRtTz0qb/aMeAcgdth9praU8oMQoHQu4ry4owEesokZFWg25etAjKxg60cPvEspqW5WfMqA==",
   "success": true,
-  "projectFilePath": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Catalog.API/Catalog.API.csproj",
+  "projectFilePath": "/Users/nevenmekkawy/Projects/DotNet-Microservices/src/Services/Catalog.API/Catalog.API.csproj",
   "expectedPackageFiles": [
     "/Users/nevenmekkawy/.nuget/packages/microsoft.aspnetcore.openapi/7.0.19/microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
     "/Users/nevenmekkawy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
