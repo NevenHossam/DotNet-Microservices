@@ -9,7 +9,20 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.19" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="MongoDB.Driver" Version="2.25.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Controllers\" />
+    <None Remove="Entities\" />
+    <None Remove="Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
 </Project>
